@@ -17,15 +17,19 @@ Aberrus, the Shadowed Crucible is located in northern Zaralek Cavern. The closes
 ## Bosses
 
 There are nine boss encounters in total:
-- [Kazzara, the Hellforged](./bosses/kazzara-the-hellforged.md)
-- [Amalgamation Chamber](./bosses/amalgamation-chamber.md)
-- [The Forgotten Experiments](./bosses/the-forgotten-experiments.md)
-- [Assault of the Zaqali](./bosses/assault-of-the-zaqali.md)
-- [Rashok, the Elder](./bosses/rashok-the-elder.md)
-- [Zskarn, the Vigilant Steward](./bosses/zskarn-the-vigilant-steward.md)
-- [Magmorax](./bosses/magmorax.md)
-- [Echo of Neltharion](./bosses/echo-of-neltharion.md)
-- [Scalecommander Sarkareth]()
+- Wing 1
+    - [Kazzara, the Hellforged](./bosses/kazzara-the-hellforged.md)
+    - [Amalgamation Chamber](./bosses/amalgamation-chamber.md)
+    - [The Forgotten Experiments](./bosses/the-forgotten-experiments.md)
+- Wing 2
+    - [Assault of the Zaqali](./bosses/assault-of-the-zaqali.md)
+    - [Rashok, the Elder](./bosses/rashok-the-elder.md)
+    - [Zskarn, the Vigilant Steward](./bosses/zskarn-the-vigilant-steward.md)
+- Wing 3
+    - [Magmorax](./bosses/magmorax.md)
+    - [Echo of Neltharion](./bosses/echo-of-neltharion.md)
+- Wing 4
+    - [Scalecommander Sarkareth]()
 
 ## Loot
 
