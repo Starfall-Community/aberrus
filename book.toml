@@ -1,0 +1,23 @@
+[book]
+title = "Aberrus, the Shadowed Crucible"
+authors = []
+description = "A collection of resources for the Aberrus raid in World of Warcraft."
+src = "src"
+language = "en"
+multilingual = false
+
+[build]
+build-dir = "book"
+create-missing = true
+use-default-preprocessors = false
+extra-watch-dirs = []
+
+[preprocessor.index]
+
+[preprocessor.links]
+
+[preprocessor.d2]
+
+[output.html]
+default-theme = "coal"
+preferred-dark-theme = "coal"
