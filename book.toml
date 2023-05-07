@@ -16,8 +16,6 @@ extra-watch-dirs = []
 
 [preprocessor.links]
 
-[preprocessor.d2]
-
 [output.html]
 default-theme = "coal"
 preferred-dark-theme = "coal"
