@@ -1,7 +1,5 @@
 # Introduction
 
-Millennia ago, Neltharion established Aberrus, a secret laboratory where he conducted world altering experiments. Recently rediscovered, Aberrus is now under attack from all sides as forces seeking the claim the Earth-Warder's legacy search for any power that remains. The champions of Azeroth must venture into the shadows and ensure Neltharion's dark power doesn't fall into the wrong hands.
-
 ## Release Schedule
 
 Normal, Heroric, and Mythic will release the week of May 8th, 2023.
@@ -19,20 +17,14 @@ Aberrus, the Shadowed Crucible is located in northern Zaralek Cavern. The closes
 ## Bosses
 
 There are nine boss encounters in total:
-- [Kazzara, the Hellforged](./bosses/kazzara.md)
-- [Amalgamation Chamber]()
-    - [Eternal Blaze]()
-    - [Essence of Shadow]()
-    - [Shadowflame Amalgamation]()
-- [The Forgotten Experiments]()
-    - [Neldris]()
-    - [Thadrion]()
-    - [Rionthus]()
-- [Warlord Kagni]()
-- [Rashok, the Elder]()
-- [Zskarn, the Vigilant Steward]()
-- [Magmorax]()
-- [Echo of Neltharion]()
+- [Kazzara, the Hellforged](./bosses/kazzara-the-hellforged.md)
+- [Amalgamation Chamber](./bosses/amalgamtion-chamber.md)
+- [The Forgotten Experiments](./bosses/the-forgotten-experiments.md)
+- [Assault of the Zaqali](./bosses/assault-of-the-zaqali.md)
+- [Rashok, the Elder](./bosses/rashok-the-elder.md)
+- [Zskarn, the Vigilant Steward](./bosses/zskarn-the-vigilant-steward.md)
+- [Magmorax](./bosses/magmorax.md)
+- [Echo of Neltharion](./bosses/echo-of-neltharion.md)
 - [Scalecommander Sarkareth]()
 
 ## Loot
@@ -57,8 +49,8 @@ There are four tier set tokens that can drop from Aberrus' Bosses. Each token is
 
 Tier set tokens will drop from these specific bosses:
 
-- Helm: [Magmorax]()
-- Shoulder: [Echo of Neltharion]()
-- Chest: [Zskarn, the Vigilant Steward]()
-- Hands: [The Forgotten Experiments]()
-- Legs: [Rashok, the Elder]()
+- Helm: [Magmorax](./bosses/magmorax.md)
+- Shoulder: [Echo of Neltharion](./bosses/echo-of-neltharion.md)
+- Chest: [Zskarn, the Vigilant Steward](./bosses/zskarn-the-vigilant-steward.md)
+- Hands: [The Forgotten Experiments](./bosses/the-forgotten-experiments.md)
+- Legs: [Rashok, the Elder](./bosses/rashok-the-elder.md)
