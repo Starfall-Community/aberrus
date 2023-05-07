@@ -10,3 +10,4 @@
 ### Video
 
 * [Ready Check Pull](https://www.youtube.com/watch?v=LYoPMoU18U4)
+* [Method](https://www.youtube.com/watch?v=419MGOKsqcc)
