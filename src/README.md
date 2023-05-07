@@ -18,7 +18,7 @@ Aberrus, the Shadowed Crucible is located in northern Zaralek Cavern. The closes
 
 There are nine boss encounters in total:
 - [Kazzara, the Hellforged](./bosses/kazzara-the-hellforged.md)
-- [Amalgamation Chamber](./bosses/amalgamtion-chamber.md)
+- [Amalgamation Chamber](./bosses/amalgamation-chamber.md)
 - [The Forgotten Experiments](./bosses/the-forgotten-experiments.md)
 - [Assault of the Zaqali](./bosses/assault-of-the-zaqali.md)
 - [Rashok, the Elder](./bosses/rashok-the-elder.md)
